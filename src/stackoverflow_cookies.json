@@ -1,0 +1,42 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "2wP5YdrRIvuGK0XM8GNNDjPVmG7SQYv3_tTZyjWsxqM-1757606728-1.0.1.1-edd.m_ITPP0c7SIcV7Il7FvMMOWIx8f6n5Hi883AsX7M4X.B_3Ivm9PXa3aHD10l.FnQ7MWa7ZPzHktS5hGu_eaCmPsleZwKc7CTl_pUoY8",
+    "domain": ".stackoverflow.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  },
+  {
+    "name": "__cflb",
+    "value": "02DiuFA7zZL3enAQJD3AX8ZzvyzLcaG7vkxDKX4xDQuFJ",
+    "domain": "stackoverflow.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "name": "_cfuvid",
+    "value": "PMxz4FCIbZtp3iKd0XPln3GkWo.gI6tDmrdt3ogMLGo-1757599015199-0.0.1.1-604800000",
+    "domain": ".stackoverflow.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  },
+  {
+    "name": "acct",
+    "value": "t=AwxxAP5SKN6JAIXpUUPOf2PF4M2%2fN8h%2f&s=BQCvn54evMOX1kACigGhZl%2fus1%2bznrsQ",
+    "domain": ".stackoverflow.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  },
+  {
+    "name": "cf_clearance",
+    "value": "6vSJjKEr4HXSiIz1gkJrNtt.ieve2GAgi1fsATPK0UE-1757606450-1.2.1.1-lbzJbiZ.VagWic6pG3iHEPiLV6_hCavKQa7Gy0THmld7Ct11oRZQVjmmsxyQKRqv1TG6.1jlVhLXmAy8jVET983N71W07v_gxMhn4gwitLzFuoPFYgZ_B3N_tVU9Ff4P48HFYgKfp.4i0MBd.ANjNS_u5Ic.g8TdWXYHkK8CCxIO8Q4IAlR8NIUFu7fIDWjYTCSUDZnEvL3rJ3VPhffQhtZ4ZikT2dJKyz6kpUEDB9w",
+    "domain": ".stackoverflow.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  }
+]
