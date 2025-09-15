@@ -13,10 +13,10 @@ class DataE(DataExtractor):
     
 def main():
     extractor = DataExtractor()
-    extractor.process_urls_from_csv(r"C:\Users\ahmed\Desktop\stack_over_flow\src\test.csv")
+    extractor.process_urls_from_csv(r"C:\Users\ahmed\Desktop\stack_over_flow\src\stack_overflow_sap.csv")
     # Now extractor.data contains all the scraped data
     # You can save it to a file or process it further
-    extractor.save_to_json("scraped_data.json")
+    extractor.save_to_json("sap.json")
 
 
 if __name__ == "__main__":

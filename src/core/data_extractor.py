@@ -14,7 +14,7 @@ class DataExtractor(ABC):
     def process_urls_from_csv(self, csv_filepath):
         try:
             df = pd.read_csv(csv_filepath)
-            urls = df['URL'].tolist()
+            urls = df['link'].tolist()
             logging.info(f"Found {len(urls)} URLs to process.")
             for url in urls:
                 page_data = self.process_single_page(url)
